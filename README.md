@@ -1,6 +1,6 @@
 # Backend Server Written in Go
 
-This is my prototype of REST API which is fulfilled in Go. It responses on messages from varies frontend web applications or mobile devices by using HTTP protocol and certaion commands which can be obtained in file `Tech Info.docx`. When resource is requested to this server and your client device has its necessary privileges, then you're up to get, modify, delete or create new entries in database resources.
+This is my prototype of REST API which is fulfilled in Go. It responses on messages from varies frontend web applications or mobile devices by using HTTP protocol and certain commands which can be obtained in file `Tech Info.docx`. When resource is requested to this server and your client device has its necessary privileges, then you're up to get, modify, delete or create new entries in database resources.
 
 To may have access to manage resources firstly sign in on system. Server will check your profile and will grant you access if your profile is activated. You can register more profiles but always awaits when superuser will activate your profile.
 
