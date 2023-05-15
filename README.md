@@ -12,7 +12,7 @@ The stream watch test page is available by this address:
 
 `127.0.0.1:8000/stream`
 
-# Full List of Available URL Requests:
+# Full List of Available URL Requests
 
 * POST   /auth/signin
 * POST   /auth/change_password
@@ -51,7 +51,7 @@ The stream watch test page is available by this address:
 * GET    /stream/get/:id
 * GET    /stream/get/all
 
-# How to use it:
+# How to use it
 
 1. Create an `.env` file in directory `./configs/` and post variables from example `.env.example`.
 2. Create database named "video_info" in your DBMS and create tables by executing
